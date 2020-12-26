@@ -9,12 +9,12 @@ https://github.com/tkaria/gists/tree/master/cpp_trees/source/data_structures/tre
 
 To start: 
 
-$make
-$./rect
+*$make
+*$./rect
 
 Tested on: 
 
-gcc version 4.8.4, Ubuntu 4.8.4-2ubuntu1~14.04.3
+*gcc version 4.8.4, Ubuntu 4.8.4-2ubuntu1~14.04.3
 
 
 

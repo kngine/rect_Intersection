@@ -1,6 +1,7 @@
 # Intersections of Rectangles:
 
-This program implements generaly the fastest way to find all intersections among a set of rectangles.
+This program implements generaly the fastest algorithm to find all intersections among a set of rectangles.
+This is a very fundamental problem in compututational geometry and a lot of other areas.
 It uses a data structure called "interval tree" available at 
 https://github.com/tkaria/gists/tree/master/cpp_trees/source/data_structures/trees
 

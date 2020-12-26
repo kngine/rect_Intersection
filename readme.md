@@ -9,13 +9,13 @@ https://github.com/tkaria/gists/tree/master/cpp_trees/source/data_structures/tre
 
 * To start: 
 
-- $make
-- $./rect
+  - $make
+  - $./rect
 
 * Tested on: 
 
-- gcc version 4.8.4
-- Ubuntu 4.8.4-2ubuntu1~14.04.3
+  - gcc version 4.8.4
+  - Ubuntu 4.8.4-2ubuntu1~14.04.3
 
 
 
@@ -23,8 +23,8 @@ https://github.com/tkaria/gists/tree/master/cpp_trees/source/data_structures/tre
 
 * Contact
 
-- Jian Kuang
+  - Jian Kuang
 
-- mr.kngine@gmail.com
+  - mr.kngine@gmail.com
 
-- https://scholar.google.com.hk/citations?user=xI8tEpIAAAAJ
+  - https://scholar.google.com.hk/citations?user=xI8tEpIAAAAJ

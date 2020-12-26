@@ -7,24 +7,24 @@ This is a very fundamental problem in compututational geometry and a lot of othe
 It uses a data structure called "interval tree" available at 
 https://github.com/tkaria/gists/tree/master/cpp_trees/source/data_structures/trees
 
-To start: 
+* To start: 
 
-* $make
-* $./rect
+- $make
+- $./rect
 
-Tested on: 
+* Tested on: 
 
-* gcc version 4.8.4
-* Ubuntu 4.8.4-2ubuntu1~14.04.3
-
-
+- gcc version 4.8.4
+- Ubuntu 4.8.4-2ubuntu1~14.04.3
 
 
 
-by
 
-Jian Kuang
 
-mr.kngine@gmail.com
+* Contact
 
-https://scholar.google.com.hk/citations?user=xI8tEpIAAAAJ
+- Jian Kuang
+
+- mr.kngine@gmail.com
+
+- https://scholar.google.com.hk/citations?user=xI8tEpIAAAAJ
